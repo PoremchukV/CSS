@@ -1,0 +1,17 @@
+dl {
+  margin: 0;
+}
+
+dt {
+  border: 2px solid #657077;
+  font-weight: bold;
+  background: #b8c1c8;
+  position: sticky;
+  top: 10px;
+}
+dd {
+  border-top: 1px solid #717d85;
+  text-decoration: none;
+  list-style: none;
+  padding: 10px;
+}
